@@ -1,0 +1,19 @@
+title="Fencing Fencer"
+type="mod_mp"
+version="0.1.0"
+dependencies=""
+
+author="Iris Morelle (Irydacea/shadowm)"
+email="shadowm@wesnoth.org"
+
+icon="units/human-loyalists/fencer-die5.png"
+
+tags="joke,terraforming,building,broken"
+
+description="Allows fencers to build fences anywhere they can stand on.
+
+
+
+... Please do not use for serious play.
+
+(Original idea by Coggleton on Discord.)"
